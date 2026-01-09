@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ccb63e62-59e0-4f8c-832c-efb894eababc")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 106.045 116.84)
+		(size 26.035 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d1afac9f-1861-4d65-b27e-ac0ad61256d3")
+		(property "Sheetname" "Left"
+			(at 106.045 116.1284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Half.kicad_sch"
+			(at 106.045 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Splitty"
+				(path "/ccb63e62-59e0-4f8c-832c-efb894eababc"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 116.205)
+		(size 26.035 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d70a218b-83e0-457f-b2be-89febc849de8")
+		(property "Sheetname" "Right"
+			(at 144.78 115.4934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Half.kicad_sch"
+			(at 144.78 142.1896 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Splitty"
+				(path "/ccb63e62-59e0-4f8c-832c-efb894eababc"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
