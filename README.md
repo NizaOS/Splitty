@@ -52,7 +52,7 @@
                     <td>40</td>
                     <td>$0.55</td>
                     <td>$22.00</td>
-                    <td><a href="https://neomacro.in/products/kailh-choc-v1-switches" target="_blank">NeoMacro</a></td>
+                    <td><a href="[https://neomacro.in/products/kailh-choc-v1-switches](https://neomacro.in/products/kailh-choc-pg1350-hot-swap-sockets?srsltid=AfmBOor8u36EImYNmOMVrunXb-IJBcmzE4elqdvKx1VKok2jcNJwbEJO)" target="_blank">NeoMacro</a></td>
                 </tr>
                 <tr>
                     <td><b>Choc Hotswap Sockets</b></td>
@@ -66,7 +66,7 @@
                     <td>40</td>
                     <td>$0.40</td>
                     <td>$16.00</td>
-                    <td><a href="https://neomacro.in/products/kailh-choc-v1-switches" target="_blank">NeoMacro</a></td>
+                    <td><a href="[https://neomacro.in/products/kailh-choc-v1-switches](https://neomacro.in/products/chocfox-cfx-choc-blank-keycaps?variant=49467027685654)" target="_blank">NeoMacro</a></td>
                 </tr>
                 <tr>
                     <td><b>PCB (Manufacturing)</b></td>
