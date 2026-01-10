@@ -85,8 +85,8 @@
                 <tr>
                     <td><b>LiPo Battery (1000mAh)</b><br><small>Model: WLY394058 (3.9mm thick)</small></td>
                     <td>2</td>
-                    <td>$2.05</td>
-                    <td>$4.10</td>
+                    <td>$4.18</td>
+                    <td>$8.36</td>
                     <td><a href="https://robu.in/product/wly394058-1000mah-3-7v-single-cell-rechargeable-lipo-battery/" target="_blank">Robu.in</a></td>
                 </tr>
                 <tr>
@@ -112,7 +112,7 @@
                 </tr>
                 <tr style="font-weight: bold; background-color: #e6e6e6;">
                     <td colspan="3" style="text-align: right;">ESTIMATED TOTAL</td>
-                    <td colspan="2">$102.99</td>
+                    <td colspan="2">$107.25</td>
                 </tr>
             </tbody>
         </table>
