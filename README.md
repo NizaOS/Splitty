@@ -43,8 +43,8 @@
                 <tr>
                     <td><b>Seeed XIAO BLE nRF52840</b></td>
                     <td>2</td>
-                    <td>$11.11</td>
-                    <td>$22.22</td>
+                    <td>$14.88</td>
+                    <td>$25.87</td>
                     <td><a href="https://www.fabtolab.com/seeed-xiao-ble-nrf52840-supports-arduino-micropython-bluetooth5.0-onboard-antenna-microcontroller-32-bit-arm-cortex-m4" target="_blank">Fab.to.Lab</a></td>
                 </tr>
                 <tr>
@@ -112,7 +112,7 @@
                 </tr>
                 <tr style="font-weight: bold; background-color: #e6e6e6;">
                     <td colspan="3" style="text-align: right;">ESTIMATED TOTAL</td>
-                    <td colspan="2">$107.25</td>
+                    <td colspan="2">$110.9</td>
                 </tr>
             </tbody>
         </table>
