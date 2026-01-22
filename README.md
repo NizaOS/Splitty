@@ -101,18 +101,18 @@
                     <td>10</td>
                     <td>$0.023</td>
                     <td>$$0.14</td>
-                    <td><a href="https://robu.in/product/ac0402fr-07806kl-yageo-62-5mw-thick-film-resistors-50v-±100ppm-℃-±1-806kω-0402-chip-resistor-surface-mount-rohs/" target="_blank">Element14</a></td>
+                    <td><a href="https://robu.in/product/ac0402fr-07806kl-yageo-62-5mw-thick-film-resistors-50v-±100ppm-℃-±1-806kω-0402-chip-resistor-surface-mount-rohs/" target="_blank">Robu.in</a></td>
                 </tr>
                 <tr>
                     <td><b>2M1 Resistor (0805)</b></td>
                     <td>10</td>
                     <td>$0.020</td>
                     <td>$$0.11</td>
-                    <td><a href="https://robu.in/product/rc0603fr-0716rl-yageo-smd-chip-resistor-16-ohm-±-1-100-mw-0603-1608-metric-thick-film-general-purpose/" target="_blank">Element14</a></td>
+                    <td><a href="https://robu.in/product/rc0603fr-0716rl-yageo-smd-chip-resistor-16-ohm-±-1-100-mw-0603-1608-metric-thick-film-general-purpose/" target="_blank">Robu.in</a></td>
                 </tr>
                 <tr style="font-weight: bold; background-color: #e6e6e6;">
                     <td colspan="3" style="text-align: right;">ESTIMATED TOTAL</td>
-                    <td colspan="2">$110.9</td>
+                    <td colspan="2">$110.72</td>
                 </tr>
             </tbody>
         </table>
