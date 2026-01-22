@@ -100,15 +100,15 @@
                     <td><b>806K1 Resistor (0805)</b></td>
                     <td>10</td>
                     <td>$0.023</td>
-                    <td>$0.23</td>
-                    <td><a href="https://in.element14.com/vishay/crcw0805806kfKEA/res-806k-1-0-125w-0805-thick-film/dp/2139111" target="_blank">Element14</a></td>
+                    <td>$$0.14</td>
+                    <td><a href="https://robu.in/product/ac0402fr-07806kl-yageo-62-5mw-thick-film-resistors-50v-±100ppm-℃-±1-806kω-0402-chip-resistor-surface-mount-rohs/" target="_blank">Element14</a></td>
                 </tr>
                 <tr>
                     <td><b>2M1 Resistor (0805)</b></td>
                     <td>10</td>
                     <td>$0.020</td>
-                    <td>$0.20</td>
-                    <td><a href="https://in.element14.com/vishay/crcw08052m10fkea/res-2-1m-1-0-125w-0805-thick-film/dp/2139265" target="_blank">Element14</a></td>
+                    <td>$$0.11</td>
+                    <td><a href="https://robu.in/product/rc0603fr-0716rl-yageo-smd-chip-resistor-16-ohm-±-1-100-mw-0603-1608-metric-thick-film-general-purpose/" target="_blank">Element14</a></td>
                 </tr>
                 <tr style="font-weight: bold; background-color: #e6e6e6;">
                     <td colspan="3" style="text-align: right;">ESTIMATED TOTAL</td>
