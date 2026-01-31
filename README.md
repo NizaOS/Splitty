@@ -126,6 +126,9 @@
         <h2 style="text-align: center;">Project Gallery</h2>
       <img width="2628" height="1708" alt="Screenshot 2026-01-07 at 18 36 32" src="https://github.com/user-attachments/assets/810bef78-5737-4d3a-881b-fcd5a2a62d03" />
 <img width="2626" height="1709" alt="Screenshot 2026-01-07 at 18 37 47" src="https://github.com/user-attachments/assets/fa6ffa10-7468-4aaf-90e2-445f281ef5a1" />
+<img width="1819" height="1439" alt="Screenshot 2026-01-31 at 10 59 34" src="https://github.com/user-attachments/assets/c0eab0db-4197-4c90-b9fb-a5e6a59d13e2" />
+<img width="2198" height="1089" alt="Screenshot 2026-01-31 at 10 59 28" src="https://github.com/user-attachments/assets/10cdc76a-2abb-4cd1-b49b-894dee205039" />
+
 
 
 </div>
