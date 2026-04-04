@@ -8,6 +8,7 @@
 <section>
 <h2>Project Overview</h2>
 <p>SPLITTY is a custom-built, wireless split keyboard designed for portability and ergonomics. It utilizes the <b>Seeed Studio XIAO nRF52840</b> for Bluetooth 5.0 connectivity and is built on a custom PCB optimized for <b>Kailh Choc v1</b> low-profile switches.</p>
+<img width="2000" height="1506" alt="image" src="https://github.com/user-attachments/assets/047d9f4a-e4f7-455c-858a-2d7fa775769a" />
 
 <h3>why i made this project</h3>
     <p>i wanted a low profile split keyboard that was actually portable and didnt cost a fortune. most commerical options are too bulky or wired only so i decided to desin something that fits in a laptop bag easily while keeping the ergonomics of a split layout.</p>
